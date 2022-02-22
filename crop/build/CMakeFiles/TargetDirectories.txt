@@ -1,0 +1,3 @@
+/home/longnve/AICam/CutFrameData/crop/build/CMakeFiles/rebuild_cache.dir
+/home/longnve/AICam/CutFrameData/crop/build/CMakeFiles/tracking.dir
+/home/longnve/AICam/CutFrameData/crop/build/CMakeFiles/edit_cache.dir
